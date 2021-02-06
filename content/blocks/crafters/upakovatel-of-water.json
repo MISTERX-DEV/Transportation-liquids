@@ -1,0 +1,29 @@
+{
+  "type": "GenericCrafter",
+  "name": "upakovatel of water",
+  "description": "ii",
+  "health": 900,
+  "size": 1,
+  "requirements": [
+    { "item": "copper", "amount": 5}
+	{ "item": "lead", "amount": 2}
+  ],
+  "research": "graphite-press",
+  "hasPower": false,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 1,
+  "consumes": {
+  "liquid" : { "liquid": "water", "amount": 1}
+    "items": {
+      "items": [
+        { "item": "store", "amount": 1}
+      ]
+    }
+  },
+  "updateEffect": "nuclearsmoke",
+  "category": "crafting",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 10,
+  "outputItem": { "item": "store-water", "amount": 1}
+}

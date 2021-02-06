@@ -1,0 +1,28 @@
+{
+  "type": "GenericCrafter",
+  "name": "store crafter",
+  "description": "ii",
+  "health": 900,
+  "size": 1,
+  "requirements": [
+    { "item": "copper", "amount": 2}
+	{ "item": "lead", "amount": 3}
+  ],
+  "research": "graphite-press",
+  "hasPower": false,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 20,
+  "consumes": {
+    "items": {
+      "items": [
+        { "item": "metaglass", "amount": 1}
+      ]
+    }
+  },
+  "updateEffect": "nuclearsmoke",
+  "category": "crafting",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 10,
+  "outputItem": {"item": "store", "amount": 2}
+}

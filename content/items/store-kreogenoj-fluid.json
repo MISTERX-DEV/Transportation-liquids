@@ -1,0 +1,11 @@
+{
+	"type":"resource",
+	"name":"store kreogenoj fluid",
+	"description":"store-kreogenoj-fluid",
+	"hardness":"3",
+	"radioactivity":"0",
+	"flammability": "0.7",
+	"cost": 2.0,
+	"color":"868686",
+	"tier": 3
+}

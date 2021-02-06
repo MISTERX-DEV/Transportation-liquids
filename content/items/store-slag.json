@@ -1,0 +1,11 @@
+{
+	"type":"resource",
+	"name":"store slag",
+	"description":"ttt",
+	"hardness":"3",
+	"radioactivity":"0",
+	"flammability": "0.8",
+	"cost": 2.0,
+	"color":"868686",
+	"tier": 3
+}
