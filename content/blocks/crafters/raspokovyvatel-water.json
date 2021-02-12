@@ -16,7 +16,7 @@
   "consumes": {
     "items": {
       "items": [
-        { "item": "store-water", "amount": 0.1}
+        { "item": "store-water", "amount": 1}
       ]
     }
   },
