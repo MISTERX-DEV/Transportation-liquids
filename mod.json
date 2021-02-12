@@ -3,7 +3,7 @@
  "displayName": "Transportation liquids",
  "author": "Mister.X",
  "description": "Transportation liquids позволит транспортировать жидкости по конвейерам в не по трубам",
- "version": "1.5",
+ "version": "1.7",
 
  "minGameVersion": "123",
  "dependencies": []
